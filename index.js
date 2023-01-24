@@ -42,7 +42,7 @@ const questions = [
 // Function declarations
 function welcome() {
   userName = readlinesync.question("What is your name? ");
-  log("Welcome", userName, "to ARE YOU A TRUE MARVEL FAN QUIZ! ");
+  log("\nWelcome", userName, "to ARE YOU A TRUE MARVEL FAN QUIZ! ");
   log("Do you know marvel cinematic universe? let's play a quiz and see");
 }
 
