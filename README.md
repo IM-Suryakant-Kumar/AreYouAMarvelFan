@@ -13,6 +13,10 @@ Then it will start QNA session
 
 And at the end it will show your score
 
+## Preview
+![Preview](https://user-images.githubusercontent.com/66691162/214791108-8c821c12-5abf-42f8-b39d-167d0361386e.png)
+
+
 ## TechStack
 
 nodejs
